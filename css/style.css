@@ -45,8 +45,12 @@ section {
     padding-right: 0;
     padding-left: 0;
 }
-a,
-a:link {
+
+a {
+    color: #666;
+    text-decoration: none;
+}
+.aboutme {
     color: #666;
     text-decoration: underline;
 }
